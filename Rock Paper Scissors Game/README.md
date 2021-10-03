@@ -36,6 +36,8 @@ Further, we have provided styling for the various other classes present, such as
 
 We have also added the hover function to the class _choice_. Next, we have styled the _action-message_.
 
+Separated Win,lose and draw messege on span and style it on style file by changing color and emoji.
+
 Towards the end, we have added **green**, **red** and **gray** glows for wins, losses and draws respectively.
 
 ## JavaScript Part
